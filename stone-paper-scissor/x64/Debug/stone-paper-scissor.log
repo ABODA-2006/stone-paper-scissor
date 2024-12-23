@@ -1,0 +1,5 @@
+﻿  Source.cpp
+E:\programming\projects\stone-paper-scissor\stone-paper-scissor\stone-paper-scissor\Source.cpp(54,1): warning C4715: 'compare': not all control paths return a value
+E:\programming\projects\stone-paper-scissor\stone-paper-scissor\stone-paper-scissor\Source.cpp(36,1): warning C4715: 'userAnswer': not all control paths return a value
+E:\programming\projects\stone-paper-scissor\stone-paper-scissor\stone-paper-scissor\Source.cpp(15,1): warning C4715: 'sysAns': not all control paths return a value
+  stone-paper-scissor.vcxproj -> E:\programming\projects\stone-paper-scissor\stone-paper-scissor\x64\Debug\stone-paper-scissor.exe
